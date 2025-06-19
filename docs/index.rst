@@ -7,7 +7,7 @@ How to Contact Tracki GPS Customer Service?
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: service.png
+.. image:: service1.png
    :alt: My Project Logo
    :width: 500px
    :align: center
